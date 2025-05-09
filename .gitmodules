@@ -1,0 +1,6 @@
+[submodule "doozleb.com"]
+	path = doozleb.com
+	url = https://github.com/doozleb/doozleb.com.git
+[submodule "doozleb-website"]
+	path = doozleb-website
+	url = https://github.com/doozleb/doozleb.com.git
